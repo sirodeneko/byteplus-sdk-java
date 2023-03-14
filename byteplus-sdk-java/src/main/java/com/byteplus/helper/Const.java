@@ -158,4 +158,12 @@ public class Const {
     public static final String DescribeLiveStorageSpaceData = "DescribeLiveStorageSpaceData";
     public static final String GeneratePushURL = "GeneratePushURL";
     public static final String GeneratePlayURL = "GeneratePlayURL";
+
+    // translate
+    public static final String LangDetect = "LangDetect";
+    public static final String TranslateText = "TranslateText";
+    public static final String TranslateImage = "TranslateImage";
+    public static final String TranslateAudioSubmit = "SubmitAudio";
+    public static final String TranslateAudioQuery = "QueryAudio";
+    public static final String GlossaryPublish = "GlossaryPublish";
 }
